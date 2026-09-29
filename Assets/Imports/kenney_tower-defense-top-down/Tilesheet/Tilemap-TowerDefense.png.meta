@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 004820e23be7fef45b150e89ffe33da9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7668668832439269435
+    second: Tilemap-TowerDefense_0
+  - first:
+      213: 7497032750394163653
+    second: Tilemap-TowerDefense_1
+  - first:
+      213: 3046991552827983908
+    second: Tilemap-TowerDefense_2
+  - first:
+      213: 5381219417377345194
+    second: Tilemap-TowerDefense_3
+  - first:
+      213: 782730142145138183
+    second: Tilemap-TowerDefense_4
+  - first:
+      213: -5766216506023558705
+    second: Tilemap-TowerDefense_5
+  - first:
+      213: -8731238881430864517
+    second: Tilemap-TowerDefense_6
+  - first:
+      213: 7042807442618304406
+    second: Tilemap-TowerDefense_7
+  - first:
+      213: -5719706954697474652
+    second: Tilemap-TowerDefense_8
+  - first:
+      213: 5544488920835012864
+    second: Tilemap-TowerDefense_9
+  - first:
+      213: -5487742942061327694
+    second: Tilemap-TowerDefense_10
+  - first:
+      213: -4763224124117269127
+    second: Tilemap-TowerDefense_11
+  - first:
+      213: 3807935425674122609
+    second: Tilemap-TowerDefense_12
+  - first:
+      213: -3522964802449923154
+    second: Tilemap-TowerDefense_13
+  - first:
+      213: 3103746502545105569
+    second: Tilemap-TowerDefense_14
+  - first:
+      213: -5755354494476419466
+    second: Tilemap-TowerDefense_15
+  - first:
+      213: -5713841429510147433
+    second: Tilemap-TowerDefense_16
+  - first:
+      213: 9130560098615862318
+    second: Tilemap-TowerDefense_17
+  - first:
+      213: -9203459706981021311
+    second: Tilemap-TowerDefense_18
+  - first:
+      213: -2161942026722951113
+    second: Tilemap-TowerDefense_19
+  - first:
+      213: 1914613633862000627
+    second: Tilemap-TowerDefense_20
+  - first:
+      213: 811526800821032152
+    second: Tilemap-TowerDefense_21
+  - first:
+      213: -768179937350276391
+    second: Tilemap-TowerDefense_22
+  - first:
+      213: 7273871885935812321
+    second: Tilemap-TowerDefense_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 2944
+        height: 1537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f6a93ca59c6a60800000000000000
+      internalID: 7668668832439269435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1c6b4c09fca0860800000000000000
+      internalID: 7497032750394163653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288de37ca6194a20800000000000000
+      internalID: 3046991552827983908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae06379c8eedaa40800000000000000
+      internalID: 5381219417377345194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e4d8dcae0dcda00800000000000000
+      internalID: 782730142145138183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1c87473a84affa0800000000000000
+      internalID: -5766216506023558705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dfb375f7864d680800000000000000
+      internalID: -8731238881430864517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697cdbefd041db160800000000000000
+      internalID: 7042807442618304406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_8
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adfce934d48f90b0800000000000000
+      internalID: -5719706954697474652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b57b2c4bf1fc40800000000000000
+      internalID: 5544488920835012864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_10
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 27
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba07c79ede97d3b0800000000000000
+      internalID: -5487742942061327694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_11
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 24
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754b6055e0a5edb0800000000000000
+      internalID: -4763224124117269127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_12
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 16
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759ee6281188d430800000000000000
+      internalID: 3807935425674122609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_13
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 27
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3a4c97d2aeb1fc0800000000000000
+      internalID: -3522964802449923154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_14
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 27
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ef0deff8b21b20800000000000000
+      internalID: 3103746502545105569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_15
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 27
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef848949fd020b0800000000000000
+      internalID: -5755354494476419466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_16
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 43
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792332b3e7b54b0b0800000000000000
+      internalID: -5713841429510147433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_17
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 43
+        width: 102
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24aa5ea80446be70800000000000000
+      internalID: 9130560098615862318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_18
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 4
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18986c4982eb64080800000000000000
+      internalID: -9203459706981021311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_19
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 4
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c0306e2d3ff1e0800000000000000
+      internalID: -2161942026722951113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_20
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 35
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffd678b4f2129a10800000000000000
+      internalID: 1914613633862000627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_21
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 29
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d495a0635f134b00800000000000000
+      internalID: 811526800821032152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_22
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 25
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa7aeba60e655f0800000000000000
+      internalID: -768179937350276391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-TowerDefense_23
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 31
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee97ee01fbf1f460800000000000000
+      internalID: 7273871885935812321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tilemap-TowerDefense_0: 7668668832439269435
+      Tilemap-TowerDefense_1: 7497032750394163653
+      Tilemap-TowerDefense_10: -5487742942061327694
+      Tilemap-TowerDefense_11: -4763224124117269127
+      Tilemap-TowerDefense_12: 3807935425674122609
+      Tilemap-TowerDefense_13: -3522964802449923154
+      Tilemap-TowerDefense_14: 3103746502545105569
+      Tilemap-TowerDefense_15: -5755354494476419466
+      Tilemap-TowerDefense_16: -5713841429510147433
+      Tilemap-TowerDefense_17: 9130560098615862318
+      Tilemap-TowerDefense_18: -9203459706981021311
+      Tilemap-TowerDefense_19: -2161942026722951113
+      Tilemap-TowerDefense_2: 3046991552827983908
+      Tilemap-TowerDefense_20: 1914613633862000627
+      Tilemap-TowerDefense_21: 811526800821032152
+      Tilemap-TowerDefense_22: -768179937350276391
+      Tilemap-TowerDefense_23: 7273871885935812321
+      Tilemap-TowerDefense_3: 5381219417377345194
+      Tilemap-TowerDefense_4: 782730142145138183
+      Tilemap-TowerDefense_5: -5766216506023558705
+      Tilemap-TowerDefense_6: -8731238881430864517
+      Tilemap-TowerDefense_7: 7042807442618304406
+      Tilemap-TowerDefense_8: -5719706954697474652
+      Tilemap-TowerDefense_9: 5544488920835012864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

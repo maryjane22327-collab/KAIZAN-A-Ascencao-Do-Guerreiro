@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 978fa11f09027fe4387fc8165a385e3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8674504204022005037
+    second: Inimigo-B (2)_0
+  - first:
+      213: 2272828042095346993
+    second: Inimigo-B (2)_1
+  - first:
+      213: -8267123852973348868
+    second: Inimigo-B (2)_2
+  - first:
+      213: 1897808966342923525
+    second: Inimigo-B (2)_3
+  - first:
+      213: 1847277799221292918
+    second: Inimigo-B (2)_4
+  - first:
+      213: -2427268313015828405
+    second: Inimigo-B (2)_5
+  - first:
+      213: 553642347986784273
+    second: Inimigo-B (2)_6
+  - first:
+      213: -1253933112012472517
+    second: Inimigo-B (2)_7
+  - first:
+      213: -5497106797097853067
+    second: Inimigo-B (2)_8
+  - first:
+      213: 3046937263005934559
+    second: Inimigo-B (2)_9
+  - first:
+      213: -7066355027747028570
+    second: Inimigo-B (2)_10
+  - first:
+      213: -2593719623200169850
+    second: Inimigo-B (2)_11
+  - first:
+      213: 6682737536776463510
+    second: Inimigo-B (2)_12
+  - first:
+      213: 1376936283023320691
+    second: Inimigo-B (2)_13
+  - first:
+      213: 6125332986621033855
+    second: Inimigo-B (2)_14
+  - first:
+      213: -1030875464256451963
+    second: Inimigo-B (2)_15
+  - first:
+      213: 1390887062635471072
+    second: Inimigo-B (2)_16
+  - first:
+      213: -1479623857798478761
+    second: Inimigo-B (2)_17
+  - first:
+      213: -1857957618728944050
+    second: Inimigo-B (2)_18
+  - first:
+      213: -1583130047187268494
+    second: Inimigo-B (2)_19
+  - first:
+      213: 1981632644603739671
+    second: Inimigo-B (2)_20
+  - first:
+      213: 7854424079865178492
+    second: Inimigo-B (2)_21
+  - first:
+      213: 4493928486525425315
+    second: Inimigo-B (2)_22
+  - first:
+      213: 7312739137040379569
+    second: Inimigo-B (2)_23
+  - first:
+      213: -8340187379135566861
+    second: Inimigo-B (2)_24
+  - first:
+      213: -1027521517174764014
+    second: Inimigo-B (2)_25
+  - first:
+      213: 7755161914535091775
+    second: Inimigo-B (2)_26
+  - first:
+      213: 9006014767003586232
+    second: Inimigo-B (2)_27
+  - first:
+      213: 2597671667514192634
+    second: Inimigo-B (2)_28
+  - first:
+      213: -5041670085648615926
+    second: Inimigo-B (2)_29
+  - first:
+      213: 7452820628615874366
+    second: Inimigo-B (2)_30
+  - first:
+      213: 7103881600739939534
+    second: Inimigo-B (2)_31
+  - first:
+      213: 63058256723384308
+    second: Inimigo-B (2)_32
+  - first:
+      213: 6771554216983657514
+    second: Inimigo-B (2)_33
+  - first:
+      213: 8315821804776143080
+    second: Inimigo-B (2)_34
+  - first:
+      213: -4958257551111217701
+    second: Inimigo-B (2)_35
+  - first:
+      213: -1206104455990878430
+    second: Inimigo-B (2)_36
+  - first:
+      213: 1903648214008124951
+    second: Inimigo-B (2)_37
+  - first:
+      213: 7835723961319789936
+    second: Inimigo-B (2)_38
+  - first:
+      213: -8388860380901595654
+    second: Inimigo-B (2)_39
+  - first:
+      213: 121651738290426408
+    second: Inimigo-B (2)_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inimigo-B (2)_0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 746
+        width: 204
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d3d533d97026870800000000000000
+      internalID: 8674504204022005037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 750
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135c3a4ff05ba8f10800000000000000
+      internalID: 2272828042095346993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_2
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 748
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf76d5528a6454d80800000000000000
+      internalID: -8267123852973348868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 746
+        width: 211
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505db6a233f565a10800000000000000
+      internalID: 1897808966342923525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 496
+        width: 205
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fec000f59d2a910800000000000000
+      internalID: 1847277799221292918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 497
+        width: 204
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40412c545c905ed0800000000000000
+      internalID: -2427268313015828405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_6
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 497
+        width: 216
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1109d5c38ceeea700800000000000000
+      internalID: 553642347986784273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 499
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f756e6a72299ee0800000000000000
+      internalID: -1253933112012472517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 236
+        width: 192
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd8923e7a56b3b0800000000000000
+      internalID: -5497106797097853067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 231
+        width: 178
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3ae5e1c45e84a20800000000000000
+      internalID: 3046937263005934559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 230
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c75a9a834fed90800000000000000
+      internalID: -7066355027747028570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-B (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 238
+        width: 183
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a13caeb1410cd0800000000000000
+      internalID: -2593719623200169850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0148284467bca1a45b6e92b9526b7110
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inimigo-B (2)_0: 8674504204022005037
+      Inimigo-B (2)_1: 2272828042095346993
+      Inimigo-B (2)_10: -7066355027747028570
+      Inimigo-B (2)_11: -2593719623200169850
+      Inimigo-B (2)_12: 6682737536776463510
+      Inimigo-B (2)_13: 1376936283023320691
+      Inimigo-B (2)_14: 6125332986621033855
+      Inimigo-B (2)_15: -1030875464256451963
+      Inimigo-B (2)_16: 1390887062635471072
+      Inimigo-B (2)_17: -1479623857798478761
+      Inimigo-B (2)_18: -1857957618728944050
+      Inimigo-B (2)_19: -1583130047187268494
+      Inimigo-B (2)_2: -8267123852973348868
+      Inimigo-B (2)_20: 1981632644603739671
+      Inimigo-B (2)_21: 7854424079865178492
+      Inimigo-B (2)_22: 4493928486525425315
+      Inimigo-B (2)_23: 7312739137040379569
+      Inimigo-B (2)_24: -8340187379135566861
+      Inimigo-B (2)_25: -1027521517174764014
+      Inimigo-B (2)_26: 7755161914535091775
+      Inimigo-B (2)_27: 9006014767003586232
+      Inimigo-B (2)_28: 2597671667514192634
+      Inimigo-B (2)_29: -5041670085648615926
+      Inimigo-B (2)_3: 1897808966342923525
+      Inimigo-B (2)_30: 7452820628615874366
+      Inimigo-B (2)_31: 7103881600739939534
+      Inimigo-B (2)_32: 63058256723384308
+      Inimigo-B (2)_33: 6771554216983657514
+      Inimigo-B (2)_34: 8315821804776143080
+      Inimigo-B (2)_35: -4958257551111217701
+      Inimigo-B (2)_36: -1206104455990878430
+      Inimigo-B (2)_37: 1903648214008124951
+      Inimigo-B (2)_38: 7835723961319789936
+      Inimigo-B (2)_39: -8388860380901595654
+      Inimigo-B (2)_4: 1847277799221292918
+      Inimigo-B (2)_40: 121651738290426408
+      Inimigo-B (2)_5: -2427268313015828405
+      Inimigo-B (2)_6: 553642347986784273
+      Inimigo-B (2)_7: -1253933112012472517
+      Inimigo-B (2)_8: -5497106797097853067
+      Inimigo-B (2)_9: 3046937263005934559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 33fe060e53c5419489ba84e80ee86865
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8503911161513532539
+    second: BtnDestruirCancelarTorre_0
+  - first:
+      213: -1504203455313451068
+    second: BtnDestruirCancelarTorre_1
+  - first:
+      213: -1097729087702103729
+    second: BtnDestruirCancelarTorre_2
+  - first:
+      213: 5227841437921000233
+    second: BtnDestruirCancelarTorre_3
+  - first:
+      213: 6962848401293365022
+    second: BtnDestruirCancelarTorre_4
+  - first:
+      213: -5855310441174620501
+    second: BtnDestruirCancelarTorre_5
+  - first:
+      213: -7350157204216262135
+    second: BtnDestruirCancelarTorre_6
+  - first:
+      213: -3527834722999697479
+    second: BtnDestruirCancelarTorre_7
+  - first:
+      213: -2792215224028742907
+    second: BtnDestruirCancelarTorre_8
+  - first:
+      213: 2623236222641524705
+    second: BtnDestruirCancelarTorre_9
+  - first:
+      213: 3616629181274768532
+    second: BtnDestruirCancelarTorre_10
+  - first:
+      213: 4959622486045072108
+    second: BtnDestruirCancelarTorre_11
+  - first:
+      213: 3053563780077211581
+    second: BtnDestruirCancelarTorre_12
+  - first:
+      213: -2991058838918621471
+    second: BtnDestruirCancelarTorre_13
+  - first:
+      213: -6017399800047689108
+    second: BtnDestruirCancelarTorre_14
+  - first:
+      213: -4776460509356155471
+    second: BtnDestruirCancelarTorre_15
+  - first:
+      213: -8427739712236316088
+    second: BtnDestruirCancelarTorre_16
+  - first:
+      213: 353376004705873962
+    second: BtnDestruirCancelarTorre_17
+  - first:
+      213: -2944301773605377213
+    second: BtnDestruirCancelarTorre_18
+  - first:
+      213: -1086397299507426575
+    second: BtnDestruirCancelarTorre_19
+  - first:
+      213: -869242416078293176
+    second: BtnDestruirCancelarTorre_20
+  - first:
+      213: 7368222545943927836
+    second: BtnDestruirCancelarTorre_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BtnDestruirCancelarTorre_0
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 62
+        width: 605
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a180bad90cf980800000000000000
+      internalID: -8503911161513532539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnDestruirCancelarTorre_1
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 64
+        width: 591
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c760205deeff1be0800000000000000
+      internalID: -1504203455313451068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnDestruirCancelarTorre_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 65
+        width: 614
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4907e3f53514c0f0800000000000000
+      internalID: -1097729087702103729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnDestruirCancelarTorre_17
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f3a0aa9177e400800000000000000
+      internalID: 353376004705873962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BtnDestruirCancelarTorre_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c1305fd5f214660800000000000000
+      internalID: 7368222545943927836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49aaee4012b7b224487fa71741665148
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BtnDestruirCancelarTorre_0: -8503911161513532539
+      BtnDestruirCancelarTorre_1: -1504203455313451068
+      BtnDestruirCancelarTorre_10: 3616629181274768532
+      BtnDestruirCancelarTorre_11: 4959622486045072108
+      BtnDestruirCancelarTorre_12: 3053563780077211581
+      BtnDestruirCancelarTorre_13: -2991058838918621471
+      BtnDestruirCancelarTorre_14: -6017399800047689108
+      BtnDestruirCancelarTorre_15: -4776460509356155471
+      BtnDestruirCancelarTorre_16: -8427739712236316088
+      BtnDestruirCancelarTorre_17: 353376004705873962
+      BtnDestruirCancelarTorre_18: -2944301773605377213
+      BtnDestruirCancelarTorre_19: -1086397299507426575
+      BtnDestruirCancelarTorre_2: -1097729087702103729
+      BtnDestruirCancelarTorre_20: -869242416078293176
+      BtnDestruirCancelarTorre_21: 7368222545943927836
+      BtnDestruirCancelarTorre_3: 5227841437921000233
+      BtnDestruirCancelarTorre_4: 6962848401293365022
+      BtnDestruirCancelarTorre_5: -5855310441174620501
+      BtnDestruirCancelarTorre_6: -7350157204216262135
+      BtnDestruirCancelarTorre_7: -3527834722999697479
+      BtnDestruirCancelarTorre_8: -2792215224028742907
+      BtnDestruirCancelarTorre_9: 2623236222641524705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

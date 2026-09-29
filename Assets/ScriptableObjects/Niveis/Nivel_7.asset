@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4642886d4ab534da386db956c2a181, type: 3}
+  m_Name: Nivel_7
+  m_EditorClassIdentifier: Assembly-CSharp::NivelSO
+  nivel:
+    id: 7
+    nome: Nivel 7
+    totalInimigos: 45
+    totalMoedasColetadas: 0
+    tempoTotal: 0
+    melhorPontuacao: 0
+    completado: 0
+  icone: {fileID: 9020227413844913158, guid: 22fe63f84bcfa5b448298ed56ffc024b, type: 3}

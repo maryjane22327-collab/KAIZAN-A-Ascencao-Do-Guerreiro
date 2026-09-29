@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: b7163a4ec3ff5d24a8e5a69c2f962fd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5240131084834159810
+    second: Inimigo-C_0
+  - first:
+      213: 2380232537726305547
+    second: Inimigo-C_1
+  - first:
+      213: 250061276693217939
+    second: Inimigo-C_2
+  - first:
+      213: -8537380549721007739
+    second: Inimigo-C_3
+  - first:
+      213: 8795027855944059895
+    second: Inimigo-C_4
+  - first:
+      213: 5238119638938498892
+    second: Inimigo-C_5
+  - first:
+      213: 4476804347364482919
+    second: Inimigo-C_6
+  - first:
+      213: -5296385857580140202
+    second: Inimigo-C_7
+  - first:
+      213: 7855073312840109512
+    second: Inimigo-C_8
+  - first:
+      213: 6608462031570310399
+    second: Inimigo-C_9
+  - first:
+      213: -3039310835479842774
+    second: Inimigo-C_10
+  - first:
+      213: -1017694535263104477
+    second: Inimigo-C_11
+  - first:
+      213: 6491581547666777474
+    second: Inimigo-C_12
+  - first:
+      213: 4919597096061709270
+    second: Inimigo-C_13
+  - first:
+      213: 705985250210593341
+    second: Inimigo-C_14
+  - first:
+      213: 5552403190229414802
+    second: Inimigo-C_15
+  - first:
+      213: -5319441031933092577
+    second: Inimigo-C_16
+  - first:
+      213: -5741593079736340423
+    second: Inimigo-C_17
+  - first:
+      213: -3071499908986383232
+    second: Inimigo-C_18
+  - first:
+      213: -746105168840683904
+    second: Inimigo-C_19
+  - first:
+      213: -9047324512964142272
+    second: Inimigo-C_20
+  - first:
+      213: -2020606065077626238
+    second: Inimigo-C_21
+  - first:
+      213: 4167351375756138338
+    second: Inimigo-C_22
+  - first:
+      213: 2813294158202500923
+    second: Inimigo-C_23
+  - first:
+      213: 4970812671848580567
+    second: Inimigo-C_24
+  - first:
+      213: -7798591344836052322
+    second: Inimigo-C_25
+  - first:
+      213: 6361030377931940516
+    second: Inimigo-C_26
+  - first:
+      213: -1105205682198810951
+    second: Inimigo-C_27
+  - first:
+      213: 5437244465508516841
+    second: Inimigo-C_28
+  - first:
+      213: -6949585776635089033
+    second: Inimigo-C_29
+  - first:
+      213: -7114661193563744320
+    second: Inimigo-C_30
+  - first:
+      213: 6478529414500222248
+    second: Inimigo-C_31
+  - first:
+      213: -6157774174749743535
+    second: Inimigo-C_32
+  - first:
+      213: -7058933157512057660
+    second: Inimigo-C_33
+  - first:
+      213: 1838264029612890522
+    second: Inimigo-C_34
+  - first:
+      213: -334274944981626442
+    second: Inimigo-C_35
+  - first:
+      213: -8806473225623362172
+    second: Inimigo-C_36
+  - first:
+      213: 7018014615668647907
+    second: Inimigo-C_37
+  - first:
+      213: -2132866155863260309
+    second: Inimigo-C_38
+  - first:
+      213: 8686311528182090130
+    second: Inimigo-C_39
+  - first:
+      213: -9190686630657687293
+    second: Inimigo-C_40
+  - first:
+      213: 40961009074557492
+    second: Inimigo-C_41
+  - first:
+      213: -4443629478936636371
+    second: Inimigo-C_42
+  - first:
+      213: 5674709995679704296
+    second: Inimigo-C_43
+  - first:
+      213: -3310022839840114941
+    second: Inimigo-C_44
+  - first:
+      213: -5782634913507749443
+    second: Inimigo-C_45
+  - first:
+      213: -553543915652527157
+    second: Inimigo-C_46
+  - first:
+      213: -4605379459153990971
+    second: Inimigo-C_47
+  - first:
+      213: -5741785124239841648
+    second: Inimigo-C_48
+  - first:
+      213: 1353438566188845911
+    second: Inimigo-C_49
+  - first:
+      213: -2110604748763882791
+    second: Inimigo-C_50
+  - first:
+      213: -5257466305182090281
+    second: Inimigo-C_51
+  - first:
+      213: 8143118409134308369
+    second: Inimigo-C_52
+  - first:
+      213: -5576991008666899495
+    second: Inimigo-C_53
+  - first:
+      213: -7470326338419649627
+    second: Inimigo-C_54
+  - first:
+      213: 270933783444363082
+    second: Inimigo-C_55
+  - first:
+      213: -7374090211123459009
+    second: Inimigo-C_56
+  - first:
+      213: -6240252355398221086
+    second: Inimigo-C_57
+  - first:
+      213: -3493060151401725585
+    second: Inimigo-C_58
+  - first:
+      213: 6319844958207747204
+    second: Inimigo-C_59
+  - first:
+      213: 6834455895331916940
+    second: Inimigo-C_60
+  - first:
+      213: -8604095185605558960
+    second: Inimigo-C_61
+  - first:
+      213: -9110861132600442583
+    second: Inimigo-C_62
+  - first:
+      213: 9174670134175450298
+    second: Inimigo-C_63
+  - first:
+      213: 6645515198831352442
+    second: Inimigo-C_64
+  - first:
+      213: -8023237535356278089
+    second: Inimigo-C_65
+  - first:
+      213: -2954844389970763824
+    second: Inimigo-C_66
+  - first:
+      213: -6409572898324765990
+    second: Inimigo-C_67
+  - first:
+      213: -9220818321547624394
+    second: Inimigo-C_68
+  - first:
+      213: 5771366341097993816
+    second: Inimigo-C_69
+  - first:
+      213: 1564262181045120067
+    second: Inimigo-C_70
+  - first:
+      213: 7858968277288042734
+    second: Inimigo-C_71
+  - first:
+      213: 2231522718859253327
+    second: Inimigo-C_72
+  - first:
+      213: 2487974094747587891
+    second: Inimigo-C_73
+  - first:
+      213: -4948537611885606380
+    second: Inimigo-C_74
+  - first:
+      213: -3058437970311611507
+    second: Inimigo-C_75
+  - first:
+      213: 1561488214258551354
+    second: Inimigo-C_76
+  - first:
+      213: -756032583716224308
+    second: Inimigo-C_77
+  - first:
+      213: 7851599098036961124
+    second: Inimigo-C_78
+  - first:
+      213: 9039724687796624528
+    second: Inimigo-C_79
+  - first:
+      213: 4511449669644579980
+    second: Inimigo-C_80
+  - first:
+      213: -2269472137491226043
+    second: Inimigo-C_81
+  - first:
+      213: 4501623962528890348
+    second: Inimigo-C_82
+  - first:
+      213: -5227333578528416369
+    second: Inimigo-C_83
+  - first:
+      213: 3583891235576303363
+    second: Inimigo-C_84
+  - first:
+      213: 3353768170866999970
+    second: Inimigo-C_85
+  - first:
+      213: 3278461360358137623
+    second: Inimigo-C_86
+  - first:
+      213: -1625979585163551339
+    second: Inimigo-C_87
+  - first:
+      213: -3714589785378347372
+    second: Inimigo-C_88
+  - first:
+      213: -1879808965302081149
+    second: Inimigo-C_89
+  - first:
+      213: -3857598019469714322
+    second: Inimigo-C_90
+  - first:
+      213: 3748450566962168805
+    second: Inimigo-C_91
+  - first:
+      213: 2534662379409872117
+    second: Inimigo-C_92
+  - first:
+      213: 8125637526302528201
+    second: Inimigo-C_93
+  - first:
+      213: 7620147949443277869
+    second: Inimigo-C_94
+  - first:
+      213: -1443757723448686495
+    second: Inimigo-C_95
+  - first:
+      213: -5178002141496997255
+    second: Inimigo-C_96
+  - first:
+      213: -2598626318763761649
+    second: Inimigo-C_97
+  - first:
+      213: 7012126796870231711
+    second: Inimigo-C_98
+  - first:
+      213: 3383336287962322832
+    second: Inimigo-C_99
+  - first:
+      213: -7271834424893899423
+    second: Inimigo-C_100
+  - first:
+      213: -6894639638798857890
+    second: Inimigo-C_101
+  - first:
+      213: 4935057816781888831
+    second: Inimigo-C_102
+  - first:
+      213: 8598959788787597356
+    second: Inimigo-C_103
+  - first:
+      213: -8081581408169341623
+    second: Inimigo-C_104
+  - first:
+      213: 995274052530090765
+    second: Inimigo-C_105
+  - first:
+      213: -9092580268836316173
+    second: Inimigo-C_106
+  - first:
+      213: -6603041401491340846
+    second: Inimigo-C_107
+  - first:
+      213: -4131312397400144566
+    second: Inimigo-C_108
+  - first:
+      213: -1925077130911588747
+    second: Inimigo-C_109
+  - first:
+      213: -7334095292676601260
+    second: Inimigo-C_110
+  - first:
+      213: 7985061669520052331
+    second: Inimigo-C_111
+  - first:
+      213: -1613433122014690935
+    second: Inimigo-C_112
+  - first:
+      213: 6984750046586821936
+    second: Inimigo-C_113
+  - first:
+      213: 4841463685592777057
+    second: Inimigo-C_114
+  - first:
+      213: -5484669929315944196
+    second: Inimigo-C_115
+  - first:
+      213: 8066567532550640190
+    second: Inimigo-C_116
+  - first:
+      213: 6324963082197588937
+    second: Inimigo-C_117
+  - first:
+      213: -2776009034052692256
+    second: Inimigo-C_118
+  - first:
+      213: 709600740167631876
+    second: Inimigo-C_119
+  - first:
+      213: -7388387292935680257
+    second: Inimigo-C_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inimigo-C_0
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 710
+        width: 263
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccb500557fa8b840800000000000000
+      internalID: 5240131084834159810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 712
+        width: 252
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05c00ec1e8480120800000000000000
+      internalID: 2380232537726305547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 714
+        width: 267
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39241610865687300800000000000000
+      internalID: 250061276693217939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_3
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 708
+        width: 303
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589dc8d7f91258980800000000000000
+      internalID: -8537380549721007739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 435
+        width: 249
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb0637ac373e0a70800000000000000
+      internalID: 8795027855944059895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 437
+        width: 259
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c473de11f0a81b840800000000000000
+      internalID: 5238119638938498892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_6
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 438
+        width: 259
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f9595b5ddc02e30800000000000000
+      internalID: 4476804347364482919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_7
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 432
+        width: 230
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659788dbf157f76b0800000000000000
+      internalID: -5296385857580140202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_8
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 91
+        width: 167
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd4c706f83d20d60800000000000000
+      internalID: 7855073312840109512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 97
+        width: 167
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4976f5439f5bb50800000000000000
+      internalID: 6608462031570310399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 106
+        width: 167
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a207a39e5e232d5d0800000000000000
+      internalID: -3039310835479842774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo-C_73
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 91
+        width: 167
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ddcfd14f078220800000000000000
+      internalID: 2487974094747587891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96f53663ad0866749a592f09f8307665
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inimigo-C_0: 5240131084834159810
+      Inimigo-C_1: 2380232537726305547
+      Inimigo-C_10: -3039310835479842774
+      Inimigo-C_100: -7271834424893899423
+      Inimigo-C_101: -6894639638798857890
+      Inimigo-C_102: 4935057816781888831
+      Inimigo-C_103: 8598959788787597356
+      Inimigo-C_104: -8081581408169341623
+      Inimigo-C_105: 995274052530090765
+      Inimigo-C_106: -9092580268836316173
+      Inimigo-C_107: -6603041401491340846
+      Inimigo-C_108: -4131312397400144566
+      Inimigo-C_109: -1925077130911588747
+      Inimigo-C_11: -1017694535263104477
+      Inimigo-C_110: -7334095292676601260
+      Inimigo-C_111: 7985061669520052331
+      Inimigo-C_112: -1613433122014690935
+      Inimigo-C_113: 6984750046586821936
+      Inimigo-C_114: 4841463685592777057
+      Inimigo-C_115: -5484669929315944196
+      Inimigo-C_116: 8066567532550640190
+      Inimigo-C_117: 6324963082197588937
+      Inimigo-C_118: -2776009034052692256
+      Inimigo-C_119: 709600740167631876
+      Inimigo-C_12: 6491581547666777474
+      Inimigo-C_120: -7388387292935680257
+      Inimigo-C_13: 4919597096061709270
+      Inimigo-C_14: 705985250210593341
+      Inimigo-C_15: 5552403190229414802
+      Inimigo-C_16: -5319441031933092577
+      Inimigo-C_17: -5741593079736340423
+      Inimigo-C_18: -3071499908986383232
+      Inimigo-C_19: -746105168840683904
+      Inimigo-C_2: 250061276693217939
+      Inimigo-C_20: -9047324512964142272
+      Inimigo-C_21: -2020606065077626238
+      Inimigo-C_22: 4167351375756138338
+      Inimigo-C_23: 2813294158202500923
+      Inimigo-C_24: 4970812671848580567
+      Inimigo-C_25: -7798591344836052322
+      Inimigo-C_26: 6361030377931940516
+      Inimigo-C_27: -1105205682198810951
+      Inimigo-C_28: 5437244465508516841
+      Inimigo-C_29: -6949585776635089033
+      Inimigo-C_3: -8537380549721007739
+      Inimigo-C_30: -7114661193563744320
+      Inimigo-C_31: 6478529414500222248
+      Inimigo-C_32: -6157774174749743535
+      Inimigo-C_33: -7058933157512057660
+      Inimigo-C_34: 1838264029612890522
+      Inimigo-C_35: -334274944981626442
+      Inimigo-C_36: -8806473225623362172
+      Inimigo-C_37: 7018014615668647907
+      Inimigo-C_38: -2132866155863260309
+      Inimigo-C_39: 8686311528182090130
+      Inimigo-C_4: 8795027855944059895
+      Inimigo-C_40: -9190686630657687293
+      Inimigo-C_41: 40961009074557492
+      Inimigo-C_42: -4443629478936636371
+      Inimigo-C_43: 5674709995679704296
+      Inimigo-C_44: -3310022839840114941
+      Inimigo-C_45: -5782634913507749443
+      Inimigo-C_46: -553543915652527157
+      Inimigo-C_47: -4605379459153990971
+      Inimigo-C_48: -5741785124239841648
+      Inimigo-C_49: 1353438566188845911
+      Inimigo-C_5: 5238119638938498892
+      Inimigo-C_50: -2110604748763882791
+      Inimigo-C_51: -5257466305182090281
+      Inimigo-C_52: 8143118409134308369
+      Inimigo-C_53: -5576991008666899495
+      Inimigo-C_54: -7470326338419649627
+      Inimigo-C_55: 270933783444363082
+      Inimigo-C_56: -7374090211123459009
+      Inimigo-C_57: -6240252355398221086
+      Inimigo-C_58: -3493060151401725585
+      Inimigo-C_59: 6319844958207747204
+      Inimigo-C_6: 4476804347364482919
+      Inimigo-C_60: 6834455895331916940
+      Inimigo-C_61: -8604095185605558960
+      Inimigo-C_62: -9110861132600442583
+      Inimigo-C_63: 9174670134175450298
+      Inimigo-C_64: 6645515198831352442
+      Inimigo-C_65: -8023237535356278089
+      Inimigo-C_66: -2954844389970763824
+      Inimigo-C_67: -6409572898324765990
+      Inimigo-C_68: -9220818321547624394
+      Inimigo-C_69: 5771366341097993816
+      Inimigo-C_7: -5296385857580140202
+      Inimigo-C_70: 1564262181045120067
+      Inimigo-C_71: 7858968277288042734
+      Inimigo-C_72: 2231522718859253327
+      Inimigo-C_73: 2487974094747587891
+      Inimigo-C_74: -4948537611885606380
+      Inimigo-C_75: -3058437970311611507
+      Inimigo-C_76: 1561488214258551354
+      Inimigo-C_77: -756032583716224308
+      Inimigo-C_78: 7851599098036961124
+      Inimigo-C_79: 9039724687796624528
+      Inimigo-C_8: 7855073312840109512
+      Inimigo-C_80: 4511449669644579980
+      Inimigo-C_81: -2269472137491226043
+      Inimigo-C_82: 4501623962528890348
+      Inimigo-C_83: -5227333578528416369
+      Inimigo-C_84: 3583891235576303363
+      Inimigo-C_85: 3353768170866999970
+      Inimigo-C_86: 3278461360358137623
+      Inimigo-C_87: -1625979585163551339
+      Inimigo-C_88: -3714589785378347372
+      Inimigo-C_89: -1879808965302081149
+      Inimigo-C_9: 6608462031570310399
+      Inimigo-C_90: -3857598019469714322
+      Inimigo-C_91: 3748450566962168805
+      Inimigo-C_92: 2534662379409872117
+      Inimigo-C_93: 8125637526302528201
+      Inimigo-C_94: 7620147949443277869
+      Inimigo-C_95: -1443757723448686495
+      Inimigo-C_96: -5178002141496997255
+      Inimigo-C_97: -2598626318763761649
+      Inimigo-C_98: 7012126796870231711
+      Inimigo-C_99: 3383336287962322832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

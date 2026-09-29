@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f55f236b67c7f49bf76cd5c8c5e882, type: 3}
+  m_Name: Torre_2
+  m_EditorClassIdentifier: Assembly-CSharp::TorreSO
+  torre:
+    id: 2
+    nome: Torre Forte
+    velocidadeAtaque: 80
+    poderAtaque: 150
+    nivel: 1
+    estaAtivo: 0
+    preco: 350
+  icone: {fileID: 9196235946128941567, guid: 88cd17b5ea1c16240ae197bbb96023a2, type: 3}

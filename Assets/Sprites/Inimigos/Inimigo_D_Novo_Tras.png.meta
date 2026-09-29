@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: af5cecf6ce68c5d45964c7bc023df854
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4136734486251380593
+    second: Inimigo_D_Novo_Tras_0
+  - first:
+      213: 7220994768768172803
+    second: Inimigo_D_Novo_Tras_1
+  - first:
+      213: 5221947555755500107
+    second: Inimigo_D_Novo_Tras_2
+  - first:
+      213: -5657227687095264516
+    second: Inimigo_D_Novo_Tras_3
+  - first:
+      213: 8660360375770395141
+    second: Inimigo_D_Novo_Tras_4
+  - first:
+      213: -1587082300484654671
+    second: Inimigo_D_Novo_Tras_5
+  - first:
+      213: 6031869537258608470
+    second: Inimigo_D_Novo_Tras_6
+  - first:
+      213: -851320211740785009
+    second: Inimigo_D_Novo_Tras_7
+  - first:
+      213: 6808780122357645637
+    second: Inimigo_D_Novo_Tras_8
+  - first:
+      213: -6864449628929563437
+    second: Inimigo_D_Novo_Tras_9
+  - first:
+      213: -1879585141971973749
+    second: Inimigo_D_Novo_Tras_10
+  - first:
+      213: -4222583053910535543
+    second: Inimigo_D_Novo_Tras_11
+  - first:
+      213: -853731474103505307
+    second: Inimigo_D_Novo_Tras_12
+  - first:
+      213: 8623841087803145225
+    second: Inimigo_D_Novo_Tras_13
+  - first:
+      213: -1912556630832531915
+    second: Inimigo_D_Novo_Tras_14
+  - first:
+      213: -6436014107448657991
+    second: Inimigo_D_Novo_Tras_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 776
+        width: 217
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f1f1f0912a86930800000000000000
+      internalID: 4136734486251380593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 780
+        width: 200
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3038165db70263460800000000000000
+      internalID: 7220994768768172803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 779
+        width: 224
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42a68882a5187840800000000000000
+      internalID: 5221947555755500107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_3
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 779
+        width: 199
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa9e21546d7d71b0800000000000000
+      internalID: -5657227687095264516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 539
+        width: 233
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502b9a090e7cf2870800000000000000
+      internalID: 8660360375770395141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 540
+        width: 233
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b96d427e0d89f9e0800000000000000
+      internalID: -1587082300484654671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 538
+        width: 229
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6579ccbc26185b350800000000000000
+      internalID: 6031869537258608470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 537
+        width: 234
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86841527c08f24f0800000000000000
+      internalID: -851320211740785009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 292
+        width: 182
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414ed26275ad7e50800000000000000
+      internalID: 6808780122357645637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 293
+        width: 201
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d467119e639cb0a0800000000000000
+      internalID: -6864449628929563437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 290
+        width: 218
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8988a7954f5ae5e0800000000000000
+      internalID: -1879585141971973749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_11
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 294
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982141da51f5665c0800000000000000
+      internalID: -4222583053910535543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 54
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6d706fbfe624f0800000000000000
+      internalID: -853731474103505307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 50
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cbced37c90ea770800000000000000
+      internalID: 8623841087803145225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_14
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 45
+        width: 207
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536b86e90eb3575e0800000000000000
+      internalID: -1912556630832531915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo_D_Novo_Tras_15
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 49
+        width: 202
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7be1cc44faea6a0800000000000000
+      internalID: -6436014107448657991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inimigo_D_Novo_Tras_0: 4136734486251380593
+      Inimigo_D_Novo_Tras_1: 7220994768768172803
+      Inimigo_D_Novo_Tras_10: -1879585141971973749
+      Inimigo_D_Novo_Tras_11: -4222583053910535543
+      Inimigo_D_Novo_Tras_12: -853731474103505307
+      Inimigo_D_Novo_Tras_13: 8623841087803145225
+      Inimigo_D_Novo_Tras_14: -1912556630832531915
+      Inimigo_D_Novo_Tras_15: -6436014107448657991
+      Inimigo_D_Novo_Tras_2: 5221947555755500107
+      Inimigo_D_Novo_Tras_3: -5657227687095264516
+      Inimigo_D_Novo_Tras_4: 8660360375770395141
+      Inimigo_D_Novo_Tras_5: -1587082300484654671
+      Inimigo_D_Novo_Tras_6: 6031869537258608470
+      Inimigo_D_Novo_Tras_7: -851320211740785009
+      Inimigo_D_Novo_Tras_8: 6808780122357645637
+      Inimigo_D_Novo_Tras_9: -6864449628929563437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
