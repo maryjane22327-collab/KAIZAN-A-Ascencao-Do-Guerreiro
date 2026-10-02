@@ -13,6 +13,10 @@ public class CanvasMenuMng : MonoBehaviour
         //DBMng.AdicionarNivel(5);
         //Area de teste, apagar depois*/
     }
+    public void Sair()
+    {
+        Application.Quit();
+    }
 
     // Update is called once per frame
     void Update()
